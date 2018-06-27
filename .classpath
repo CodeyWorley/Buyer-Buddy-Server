@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/iTech/eclipse-workspace/BuyerBuddyServer/dist/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iTech/eclipse-workspace/BuyerBuddyServer/dist/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iTech/eclipse-workspace/BuyerBuddyServer/dist/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iTech/eclipse-workspace/BuyerBuddyServer/dist/httpcore-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iTech/eclipse-workspace/BuyerBuddyServer/dist/mongo-java-driver-3.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iTech/eclipse-workspace/BuyerBuddyServer/dist/mongo-java-driver-3.4.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iTech/eclipse-workspace/BuyerBuddyServer/dist/MWSClientJavaRuntime-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/iTech/eclipse-workspace/BuyerBuddyServer/dist/MWSSellers_2011-07-01_v2014-09-30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
